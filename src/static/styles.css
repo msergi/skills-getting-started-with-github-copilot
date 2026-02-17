@@ -1,3 +1,8 @@
+/* Oculta los puntos de viñeta de la lista de participantes */
+#participants-list {
+  list-style-type: none;
+  padding-left: 0;
+}
 * {
   box-sizing: border-box;
   margin: 0;
